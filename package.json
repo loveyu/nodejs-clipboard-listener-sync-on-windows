@@ -9,9 +9,7 @@
   "author": "loveyu",
   "license": "MIT",
   "dependencies": {
-    "clipboardy": "^1.1.2"
-  },
-  "devDependencies": {
-    "tmp": "0.0.31"
+    "clipboardy": "^1.1.2",
+    "tmp": "^0.0.31"
   }
 }
